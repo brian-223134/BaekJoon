@@ -10,4 +10,4 @@
 - (모든 문제는 **C++**로 풀이하였습니다.)
 
 💻 **개발 환경**
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+- ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
