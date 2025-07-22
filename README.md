@@ -3,7 +3,7 @@
 ---
 
 📌 **Commit 기준**
-- 실버 3 이하의 문제는 commit 하지 않았습니다.
+- 실버 4 이하의 문제는 commit 하지 않았습니다.
 
 💻 **사용 언어**
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
