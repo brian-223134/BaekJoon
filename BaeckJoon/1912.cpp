@@ -20,6 +20,7 @@ int main(void)
     int max_sum = num[0];
     int current_sum = num[0];
 
+    // ´©ÀûÇÕ
     for (int i = 1; i < n; i++)
     {
         current_sum = max(num[i], current_sum + num[i]);
