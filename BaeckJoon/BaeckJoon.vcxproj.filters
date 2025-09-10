@@ -450,5 +450,8 @@
     <ClCompile Include="3015.cpp">
       <Filter>소스 파일\platinum</Filter>
     </ClCompile>
+    <ClCompile Include="15656.cpp">
+      <Filter>소스 파일\silver</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
