@@ -23,7 +23,8 @@ void solution(int n)
 
     for (int p = 2; p * p <= sieve_max; p++) 
     {
-        if (is_prime[p]) {
+        if (is_prime[p]) 
+        {
             for (int i = p * p; i <= sieve_max; i += p)
             {
                 is_prime[i] = false;
@@ -61,7 +62,8 @@ void solution(int n)
         {
             if (sum == n) count++;
             sum -= primes[start++];
-        } else 
+        } 
+        else 
         {
             if (end == primes.size()) break;
             sum += primes[end++];
