@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\platinum">
       <UniqueIdentifier>{7cddb742-4d6e-47bd-b4de-17e31a2c7009}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\__contest__">
+      <UniqueIdentifier>{62a43af5-89ae-4e66-bf55-47f85995b18d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1012.cpp">
@@ -587,6 +590,15 @@
     </ClCompile>
     <ClCompile Include="2839.cpp">
       <Filter>소스 파일\silver</Filter>
+    </ClCompile>
+    <ClCompile Include="2025-10-09-a.cpp">
+      <Filter>소스 파일\__contest__</Filter>
+    </ClCompile>
+    <ClCompile Include="2025-10-09-b.cpp">
+      <Filter>소스 파일\__contest__</Filter>
+    </ClCompile>
+    <ClCompile Include="2025-10-09-c.cpp">
+      <Filter>소스 파일\__contest__</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
