@@ -13,583 +13,586 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\silver">
-      <UniqueIdentifier>{c01bc7df-9195-4ff9-b7de-3100dc60bf8f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\gold">
-      <UniqueIdentifier>{3d1841a1-ebc6-455c-9d12-daf149a7858e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\platinum">
-      <UniqueIdentifier>{7cddb742-4d6e-47bd-b4de-17e31a2c7009}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\__contest__">
       <UniqueIdentifier>{62a43af5-89ae-4e66-bf55-47f85995b18d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\01_bronze">
+      <UniqueIdentifier>{d5ea8e9a-cc0d-48c3-99d1-f30e69fb7168}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02_silver">
+      <UniqueIdentifier>{c01bc7df-9195-4ff9-b7de-3100dc60bf8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03_gold">
+      <UniqueIdentifier>{3d1841a1-ebc6-455c-9d12-daf149a7858e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\04_platinum">
+      <UniqueIdentifier>{7cddb742-4d6e-47bd-b4de-17e31a2c7009}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1012.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1013.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1041.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1051.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1068.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1080.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1105.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1141.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1149.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1183.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1189.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1197.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1240.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1245.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1334.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1446.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1535.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1569.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1654.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1706.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1713.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1916.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1926.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2232.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2512.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2667.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2780.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2805.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="9663.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11404.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11581.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="15649.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1074.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="16469.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="10026.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="24479.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1260.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2178.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2644.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1697.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="5014.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2468.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="7569.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="9205.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="14503.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="10971.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="7576.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="7562.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2583.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="6593.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1463.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="13549.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="13913.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="9095.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="5427.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="3197.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="2573.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11659.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1991.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2579.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1931.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11279.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1927.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11399.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1764.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11726.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1003.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="18870.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2630.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="14940.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1717.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="9465.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11727.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2206.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1753.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="9251.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2252.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2193.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="15988.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="14501.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1912.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1913.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2578.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1244.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11055.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11053.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1699.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11052.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11057.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2225.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2294.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="13306.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="2096.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2157.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2253.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2240.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2228.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11000.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="17298.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2617.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="16236.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1214.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="10844.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11501.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="12852.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2170.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1457.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="5241.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="10830.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2493.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11048.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1520.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2293.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="6198.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2133.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1744.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2410.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="12865.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="4179.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="9466.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="14500.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="14890.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="15683.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="15686.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1167.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1967.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="17144.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1918.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="5430.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2146.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1932.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="6603.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="15650.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="15651.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="15652.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1600.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1182.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1759.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="15654.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="16987.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="15655.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="3015.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="15656.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="15657.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="16933.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11967.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="17071.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="2660.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1707.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="14891.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1374.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1715.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1647.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1414.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1922.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="6497.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1749.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2056.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1174.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="15681.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11657.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1351.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="9328.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2313.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1688.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="2629.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2162.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="1799.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="1644.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="7453.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="10942.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2166.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="17404.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2263.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1806.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1106.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2568.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="2533.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11049.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="5639.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2618.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="12844.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="2887.cpp">
-      <Filter>소스 파일\platinum</Filter>
+      <Filter>소스 파일\04_platinum</Filter>
     </ClCompile>
     <ClCompile Include="1874.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1929.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1966.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2108.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2839.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2025-10-09-a.cpp">
       <Filter>소스 파일\__contest__</Filter>
@@ -601,115 +604,115 @@
       <Filter>소스 파일\__contest__</Filter>
     </ClCompile>
     <ClCompile Include="17626.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1309.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="30804.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1541.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="9375.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1629.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11660.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11444.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1865.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1238.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="15824.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="4375.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="17427.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="11401.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="16928.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="7662.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11292.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2467.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="5567.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="1011.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="32752.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="24418.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="2357.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2042.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="14428.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="11403.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="18111.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="21736.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="5525.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="9019.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="2638.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="1303.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="14217.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="14502.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="16953.cpp">
-      <Filter>소스 파일\silver</Filter>
+      <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
     <ClCompile Include="9935.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
     <ClCompile Include="30805.cpp">
-      <Filter>소스 파일\gold</Filter>
+      <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
