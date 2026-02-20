@@ -753,5 +753,11 @@
     <ClCompile Include="1148.cpp">
       <Filter>소스 파일\03_gold</Filter>
     </ClCompile>
+    <ClCompile Include="1296.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1069.cpp">
+      <Filter>소스 파일\03_gold</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
