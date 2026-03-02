@@ -804,5 +804,11 @@
     <ClCompile Include="26517.cpp">
       <Filter>소스 파일\02_silver</Filter>
     </ClCompile>
+    <ClCompile Include="17938.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2873.cpp">
+      <Filter>소스 파일\04_platinum</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
