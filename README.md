@@ -47,40 +47,9 @@ s = input().strip()
 digits = list(map(int, input().strip()))
 ```
 
-### 3) 테스트케이스 처리
-
-```python
-t = int(input())
-for _ in range(t):
-	# 각 케이스 처리
-	pass
-```
-
-### 4) EOF까지 입력
-
-```python
-import sys
-
-for line in sys.stdin:
-	line = line.strip()
-	if not line:
-		continue
-	# 처리
-```
-
-### 5) 2차원 입력
-
-```python
-# 문자 격자
-n, m = map(int, input().split())
-board = [list(input().strip()) for _ in range(n)]
-
-# 숫자 격자
-n, m = map(int, input().split())
-board = [list(map(int, input().split())) for _ in range(n)]
-```
-
-### 6) 자주 하는 실수
+## 백준 섭종 이후
+- PS: 정올
+- 코테: programmers
 
 - 대량 입력에서 `input()`만 사용해 시간초과 발생
 - 문자열 입력에서 `strip()` 누락으로 개행 문자 포함
