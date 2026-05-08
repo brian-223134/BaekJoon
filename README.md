@@ -48,10 +48,5 @@ digits = list(map(int, input().strip()))
 ```
 
 ## 백준 섭종 이후
-- PS: 정올
+- PS: Leet Code
 - 코테: programmers
-
-- 대량 입력에서 `input()`만 사용해 시간초과 발생
-- 문자열 입력에서 `strip()` 누락으로 개행 문자 포함
-- 문제 인덱스(1-based)와 Python 인덱스(0-based) 혼동
-- 입력 형식 착각 (`int(input())` vs `map(int, input().split())`)
